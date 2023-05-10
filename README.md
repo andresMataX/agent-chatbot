@@ -8,6 +8,7 @@ Proyecto web que recopila la información de un usuario para cambiar los datos d
 
 ```
 cd .\functions\
+npm install
 npm run serve
 ```
 
@@ -15,5 +16,6 @@ npm run serve
 
 ```
 cd .\agent-chatbot\
+npm install
 ng serve -o
 ```
