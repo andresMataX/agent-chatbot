@@ -4,6 +4,10 @@ Proyecto web que recopila la información de un usuario para cambiar los datos d
 
 ## Arrancar el proyecto
 
+### Requisitos previos
+
+Instalación de Node.js, puede hacerse siguiendo estas [instrucciones](https://nodejs.org/en/download).
+
 ### Cloud Functions
 
 ```
