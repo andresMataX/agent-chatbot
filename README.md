@@ -10,6 +10,8 @@ Instalación de Node.js, puede hacerse siguiendo estas [instrucciones](https://n
 
 ### Cloud Functions
 
+#### Terminal 1
+
 ```
 cd .\functions\
 npm install
@@ -18,8 +20,11 @@ npm run serve
 
 ### Front-End
 
+#### Terminal 2
+
 ```
 cd .\agent-chatbot\
 npm install
 ng serve -o
 ```
+**NOTA: Se tienen que ejecutar ambas terminales al mismo tiempo**
