@@ -25,6 +25,7 @@ npm run serve
 ```
 cd .\agent-chatbot\
 npm install
-ng serve -o
+npm run start
 ```
+
 **NOTA: Se tienen que ejecutar ambas terminales al mismo tiempo**
